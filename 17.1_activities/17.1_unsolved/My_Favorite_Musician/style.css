@@ -1,0 +1,18 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    background-color: #000000;
+ }
+ 
+ h1{color: rgb(247, 247, 247);
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; }
+ l1{color: rgb(247, 247, 247);
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; }
+
+ p {color: #47301a;
+    font-size: 30 px;
+ }
+ 
+ a {color: rgb(204, 126, 204);}
