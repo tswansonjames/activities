@@ -10,11 +10,17 @@ nav {
 }
 
 /* target the class of .left below */
-.keft {
+.left {
   height: 500px;
   float: left;
   background-color: lightblue;
-  
+
 }
 
 /* target the class of .right below */
+.right {
+  height: 500px;
+  float: left;
+  background-color: lightblue;
+
+}
