@@ -1,0 +1,20 @@
+nav {
+  height: 50px;
+  background-color: lightgrey;
+}
+
+/* target the class of inline-block below */
+.inline-block {
+  padding: 15px;
+  display: inline-block;
+}
+
+/* target the class of .left below */
+.keft {
+  height: 500px;
+  float: left;
+  background-color: lightblue;
+  
+}
+
+/* target the class of .right below */
